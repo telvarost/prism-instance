@@ -45,6 +45,9 @@
         },
         {
             "name": "commons-codec:commons-codec:1.15"
+        },
+        {
+            "name": "com.google.guava:failureaccess:1.0.1"
         }
     ]
 }
